@@ -1,6 +1,6 @@
 # ParameterizedMessage
 
-Pass string resources between ViewMode and View without context in ViewModel
+Pass string resources between ViewModel and View without context in ViewModel
 
 ## Requirements
 * Java 8
